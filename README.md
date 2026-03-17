@@ -1,2 +1,38 @@
 # NDHU_114_2_Alogrithm_411235019
 This is for NDHU IM alogrithm leetcode homework from student 411235019 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+<!---LeetCode Topics End-->
