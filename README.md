@@ -10,11 +10,13 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -23,6 +25,7 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -40,4 +43,9 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
