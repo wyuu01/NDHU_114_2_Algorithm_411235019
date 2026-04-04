@@ -6,6 +6,7 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
@@ -52,8 +53,13 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
