@@ -9,6 +9,7 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,5 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0567-permutation-in-string/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/2090-k-radius-subarray-averages/) | Medium |
 <!---LeetCode Topics End-->
