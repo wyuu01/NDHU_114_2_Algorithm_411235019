@@ -54,6 +54,7 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | ------- | ------- |
 | [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0567-permutation-in-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,16 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0567-permutation-in-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0567-permutation-in-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
