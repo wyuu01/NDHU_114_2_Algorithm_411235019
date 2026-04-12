@@ -85,12 +85,19 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
 <!---LeetCode Topics End-->
