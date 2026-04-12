@@ -77,4 +77,20 @@ This is for NDHU IM alogrithm leetcode homework from student 411235019
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0567-permutation-in-string/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/2090-k-radius-subarray-averages/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
