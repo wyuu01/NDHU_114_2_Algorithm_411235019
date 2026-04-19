@@ -8,6 +8,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Divide and Conquer
@@ -22,6 +23,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | [0147-insertion-sort-list](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -100,4 +102,12 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 <!---LeetCode Topics End-->
