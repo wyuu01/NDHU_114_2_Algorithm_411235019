@@ -10,6 +10,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+| [1029-two-city-scheduling](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1029-two-city-scheduling/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0912-sort-an-array/) | Medium |
+| [1029-two-city-scheduling](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1029-two-city-scheduling/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,5 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
+| [1029-two-city-scheduling](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
