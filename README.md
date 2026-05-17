@@ -7,6 +7,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0213-house-robber-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
@@ -118,5 +119,6 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0213-house-robber-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0376-wiggle-subsequence/) | Medium |
 <!---LeetCode Topics End-->
