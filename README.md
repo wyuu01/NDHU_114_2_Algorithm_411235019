@@ -8,6 +8,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0912-sort-an-array/) | Medium |
 | [1029-two-city-scheduling](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1029-two-city-scheduling/) | Medium |
@@ -111,6 +112,11 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0910-smallest-range-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0910-smallest-range-ii/) | Medium |
 | [1029-two-city-scheduling](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1029-two-city-scheduling/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0376-wiggle-subsequence/) | Medium |
 <!---LeetCode Topics End-->
