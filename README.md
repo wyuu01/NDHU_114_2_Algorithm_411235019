@@ -97,6 +97,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,12 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0213-house-robber-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0376-wiggle-subsequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
