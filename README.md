@@ -96,6 +96,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/0113-path-sum-ii/) | Medium |
+| [0886-possible-bipartition](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0886-possible-bipartition/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -106,6 +107,7 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0886-possible-bipartition](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0886-possible-bipartition/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/wyuu01/NDHU_114_2_algorithm_411235019/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Math
@@ -126,9 +128,11 @@ This is for NDHU IM algorithm leetcode homework from student 411235019
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0886-possible-bipartition](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0886-possible-bipartition/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0886-possible-bipartition](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/0886-possible-bipartition/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/wyuu01/NDHU_114_2_Alogrithm_411235019/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
